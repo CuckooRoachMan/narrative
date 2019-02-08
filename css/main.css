@@ -1,0 +1,28 @@
+
+
+
+
+#reading-content {
+  background-color: white;
+  font-size: 20px;
+  font-style: normal;
+  font: helvetica;
+  padding-left: 50px;
+  padding-right: 50px;
+
+
+
+}
+
+
+.btn {
+  background-color: grey;
+  color:white;
+
+}
+
+.btn:hover {
+   background-color: white;
+   color:black
+
+}
